@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612977460 source:c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\ejercicio10\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+

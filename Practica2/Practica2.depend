@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1622452426 source:c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\practica2\p2\practica2\main.cpp
+	<cstdlib>
+	<iostream>
+	<queue>
+	<sstream>
+	<ctime>
+	"Cosmo.hpp"
+	"Arbol.hpp"
+
+1621875550 c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\practica2\p2\practica2\cosmo.hpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<sstream>
+
+1621881262 c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\practica2\p2\practica2\arbol.hpp
+	<cstdlib>
+	<iostream>
+	<queue>
+
+1622456471 source:c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\practica2\main.cpp
+	<cstdlib>
+	<iostream>
+	<queue>
+	<sstream>
+	<ctime>
+	"Cosmo.hpp"
+	"Arbol.hpp"
+
+1621879150 c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\practica2\cosmo.hpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<sstream>
+
+1621884862 c:\users\usuario\desktop\universidad\2º informática\2º semestre\estructura de datos\practicas\practica2\arbol.hpp
+	<cstdlib>
+	<iostream>
+	<queue>
+
